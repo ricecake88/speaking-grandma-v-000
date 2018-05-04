@@ -23,3 +23,5 @@ def speak_to_grandma(phrase)
    end
   return grandma_says
 end
+
+speak_to_grandma
